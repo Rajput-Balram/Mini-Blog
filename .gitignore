@@ -9,3 +9,5 @@ my-blog-backend/credentials.json
 logs/
 *.log
 npm-debug.log*
+# secret keys
+.env
